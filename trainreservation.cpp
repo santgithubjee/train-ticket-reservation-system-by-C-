@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream>// for files haldining operation
+#include <fstream>// for files handling operation
 #include <iomanip>// floating point values
 
 using namespace std;
